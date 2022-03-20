@@ -1,4 +1,4 @@
-package org.edx.divideAndConquer;
+package org.edx.dac;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

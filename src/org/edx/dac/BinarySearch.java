@@ -1,4 +1,4 @@
-package org.edx.divideAndConquer;
+package org.edx.dac;
 import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;

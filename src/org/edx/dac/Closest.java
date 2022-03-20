@@ -1,4 +1,4 @@
-package org.edx.divideAndConquer;
+package org.edx.dac;
 
 import java.io.BufferedReader;
 import java.io.PrintWriter;
